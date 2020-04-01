@@ -380,7 +380,7 @@
                 "symfony/console": "2.8.*|3.0.*",
                 "symfony/debug": "2.8.*|3.0.*",
                 "symfony/finder": "2.8.*|3.0.*",
-                "symfony/http-foundation": "2.8.*|3.0.*",
+                "symfony/http-foundation": "3.4.35",
                 "symfony/http-kernel": "2.8.*|3.0.*",
                 "symfony/polyfill-php56": "~1.0",
                 "symfony/process": "2.8.*|3.0.*",
@@ -1320,7 +1320,7 @@
                 "psr/log": "~1.0",
                 "symfony/debug": "~2.8|~3.0",
                 "symfony/event-dispatcher": "~2.8|~3.0",
-                "symfony/http-foundation": "~2.8.8|~3.0.8|~3.1.2|~3.2"
+                "symfony/http-foundation": "3.4.35"
             },
             "conflict": {
                 "symfony/config": "<2.8"
