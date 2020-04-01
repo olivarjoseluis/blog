@@ -1,0 +1,14 @@
+.categoria {
+    position: absolute;
+    width: auto;
+    right: -15px;
+    top: 10px;
+    background: #2bbbad;
+    padding: 5px 15px 5px 15px;
+}
+
+.categoria .texto-categoria {
+    padding: 0 !important;
+    margin: 0;
+    color: white;
+}
